@@ -3,9 +3,9 @@
 [2021-12-26 01:00:00] Deleting previous backups : rm backup.*
 
 [2021-12-26 01:00:00] Archiving "donations_all.csv" file...
-[2021-12-26 01:00:03] Backup "backup.<redacted>_csv" created.
+[2021-12-26 01:00:03] Backup "backup.tar<redacted>_csv" created.
 
 [2021-12-26 01:00:03] Archiving "donate" source code folder...
-[2021-12-26 01:00:12] Backup "backup.<redacted>_donate" created.
+[2021-12-26 01:00:12] Backup "backup.tar<redacted>_src" created.
 
 [2021-12-26 01:00:12] Script finished with 0 error(s).

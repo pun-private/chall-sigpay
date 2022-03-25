@@ -15,7 +15,7 @@ class Validator {
 
         switch($type) {
             case 'number':
-                return (filter_var($value, FILTER_VALIDATE_INT, ['options' => ['min_range' => 1] ]) !== false) ? true : 'Invalid number (must be at leat 1)';
+                return (filter_var($value, FILTER_VALIDATE_INT, ['options' => ['min_range' => 1] ]) !== false) ? true : 'Invalid number (must be at least 1)';
             case 'email':
                 return (filter_var($value, FILTER_VALIDATE_EMAIL) !== false) ? true : 'Invalid email address';
             case 'uuid':

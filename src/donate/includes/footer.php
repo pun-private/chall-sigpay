@@ -7,7 +7,7 @@
             <span>&copy; <?= date("Y") ?></span>
             <a href="/">Retro.NFT</a>
             <span>//</span>
-            <a href="CHANGELOG.md" target="_blank" rel="noopener">Changelog</a>
+            <a href="CHANGELOG.txt" target="_blank" rel="noopener">Changelog</a>
             <span>//</span>
             <a href="/files/terms_of_service" target="_blank" rel="noopener">Terms of service</a>
           </p>

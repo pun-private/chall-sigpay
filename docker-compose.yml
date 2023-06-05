@@ -5,6 +5,3 @@ services:
         build : .
         ports:
             - "40080:80"
-        volumes:
-            - ./src:/var/www/
-            - ./config:/etc/apache2/sites-available

@@ -1,2 +1,2 @@
-Disallow: /CHANGELOG.md
+Disallow: /CHANGELOG.txt
 Disallow: /files/backup*
